@@ -9,8 +9,9 @@ Advent of Code is a series of daily programming puzzles released every December 
 Each day's solutions are organized into individual directories:
 ```graphql
 📂 DayXX/
-  ├── input.txt   # Puzzle input
-  ├── solution.py # My solution (or equivalent language file)
+  ├── DayXX_<ProblemTitle>.txt  # Problem solving approach
+  ├── input.txt                 # Puzzle input
+  ├── solution.py               # My solution (or equivalent language file)
 ```
 
 ## Technologies Used  
@@ -20,7 +21,7 @@ Each day's solutions are organized into individual directories:
 ## How to Use  
 1. Clone the repository:
    ```bash
-   git clone https://github.com/GKay-dev/advent-of-code-2024.git
+   git clone https://github.com/GKay-dev/Advent-Of-Code-2024.git
    ```
 2. Navigate to a specific day's folder and run the solution:
    ```bash
@@ -32,7 +33,7 @@ Each day's solutions are organized into individual directories:
 | Day    | Part 1 | Part 2 |
 |:---    |  :---: |  :---: |
 | Day 1  | ✅     | ✅     |
-| Day 2  | ❌     | ❌     |
+| Day 2  | ✅     | ✅     |
 | Day 3  | ❌     | ❌     |
 | Day 4  | ❌     | ❌     |
 | Day 5  | ❌     | ❌     |
